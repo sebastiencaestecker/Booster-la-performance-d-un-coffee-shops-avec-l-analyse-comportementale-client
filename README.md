@@ -37,7 +37,8 @@ L'objectif de ce tableau de bord est de fournir une vue d'ensemble des ventes, d
 3. Connecter les nouvelles données si nécessaire.
 
 ## 📌 Aperçu
-![Coffee Shop Dashboard]((https://app.powerbi.com/links/toDJcnyvDJ?ctid=65959f4c-312a-4414-af95-a0fe06563a70&pbi_source=linkShare))
+![image](https://github.com/user-attachments/assets/b573dd39-91f2-4124-bfaa-3b47852ffe0c)
+
 
 
 
