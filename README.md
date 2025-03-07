@@ -39,6 +39,7 @@ L'objectif de ce tableau de bord est de fournir une vue d'ensemble des ventes, d
 ## 📌 Aperçu
 ![image](https://github.com/user-attachments/assets/b573dd39-91f2-4124-bfaa-3b47852ffe0c)
 
+![image](https://github.com/user-attachments/assets/0b791010-7878-46db-b81d-2500f1a9342c)
 
 
 
