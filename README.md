@@ -1,4 +1,4 @@
-# 📊 Coffee Shop Sales Dashboard
+# 📊 Tabeau Bord pour un coffee shop
 
 Ce projet présente un tableau de bord interactif permettant d'analyser les performances de ventes d'un Coffee Shop.
 ## 🎯 Objectif du Projet
