@@ -1,4 +1,4 @@
-# ☕ Optimisation de la performance commerciale et produit dans un réseau de coffee shops- Pwoer BI- DAX-Power Query
+# ☕ Optimisation de la performance commerciale et produit dans un réseau de coffee shops- Power BI- DAX-Power Query
 
 **Secteur ciblé :** Retail / Restauration rapide / Data produit & expérience client  
 
