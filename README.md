@@ -2,7 +2,6 @@
 
 **Secteur ciblé :** Retail / Restauration rapide / Data produit & expérience client  
 
-
 ## Problématique
 
 **Comment améliorer la rentabilité, la gestion produit et la satisfaction client dans un coffee shop multi-site, en tenant compte des pics d’affluence, des habitudes d’achat et de la diversité des points de vente ?**
