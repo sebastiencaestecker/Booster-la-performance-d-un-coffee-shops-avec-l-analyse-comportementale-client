@@ -68,9 +68,9 @@ Ce projet m’a permis de :
 - La gestion des filtres temporels avec SAMEPERIODLASTYEAR, PARALLELPERIOD, DATEADD pour enrichir les analyse, DAX
 - Travailler sur la **notion de granularité temporelle** (jour, heure, semaine) et son impact métier  
 - Créer un **dashboard visuel, interactif et orienté action**, avec une navigation fluide  
-- Me mettre dans la peau d’un **manager retail**, avec des objectifs de rentabilité, de satisfaction client et d’efficacité opérationnelle  
+- Objectifs de rentabilité, de satisfaction client et d’efficacité opérationnelle  
 - La gestion des filtres temporels avec SAMEPERIODLASTYEAR, PARALLELPERIOD, DATEADD pour enrichir les analyses
-- Travailler à la croisée de la technique, de l’expérience client et de l’optimisation opérationnelle
+
 
 
 
